@@ -1,0 +1,12 @@
+Package: xml2yaml.py
+Version: 1.0
+Architecture: all
+Maintainer: Adarsh <adarshmishr1042002@gmail.com>
+Depends: python3
+Filename: ./xmlresolve.deb
+Size: 17012
+MD5sum: dad9e1141af5ad7b8834607b609eb878
+SHA1: c2b246efeaec255d0ae782eb6d933c28ab87b170
+SHA256: 1dac391bc76e59edb41d6f68444ca5913fdcbed2de4078622d96bc5571c8187d
+Description: XML to YAML ConfigMap generator as a service
+
